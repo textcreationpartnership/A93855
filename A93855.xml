@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apology of Socrates Christianus, or, A brief and plain narrative of his honest endeavours for the service of his country and of the dishonest practices, which have been used to suppress them, and oppress him, with false reports and calumnies : in a letter to a very worthy and generous friend.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93855</idno>
+            <idno type="STC">Wing S5418A</idno>
+            <idno type="STC">ESTC R42652</idno>
+            <idno type="EEBO-CITATION">38875530</idno>
+            <idno type="OCLC">ocm 38875530</idno>
+            <idno type="VID">152413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152413)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apology of Socrates Christianus, or, A brief and plain narrative of his honest endeavours for the service of his country and of the dishonest practices, which have been used to suppress them, and oppress him, with false reports and calumnies : in a letter to a very worthy and generous friend.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated on p. 8: 1. April, 1700. Easter Munday. E.S.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+               <term>Religion and politics --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152413:1" rendition="simple:additions"/>
+            <head>THE APOLOGY OF <hi>SOCRATES CHRISTIAN<g ref="char:V">Ʋ</g>S:</hi> Or a Brief and Plain NARRATIVE OF HIS <hi>Honeſt Endeavours</hi> for the Service of his Country, and of the <hi>Diſhoneſt Practices,</hi> which have been uſed to Suppreſs them, and Oppreſs him, with <hi>Falſe Reports</hi> and <hi>Calumnies.</hi>
+            </head>
+            <head type="sub">In a Letter to a very Worthy and Generous Friend.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THough I have not been Ignorant for ſome time, that I have been much injured by <hi>Falſe Reports</hi> induſtriouſly ſpread abroad by the Practices of ſome Perſons of truly Latitudinarian Principles, in expreſs terms, that I am a <hi>Mad Man,</hi> am <hi>turned Papiſt,</hi> and that I <hi>Wrote</hi> what I have of late Printed, <hi>through the Inſtigation or Perſwaſion of Prieſts and Jeſuites;</hi> yet have I hitherto Diſpiſed them all, becauſe I thought the <hi>Folly</hi> of the firſt ſufficiently manifeſt by what I have ſo lately Written and Printed; the <hi>Falſity</hi> of the next both by <hi>my Pro<g ref="char:EOLhyphen"/>feſſion
+<pb n="2" facs="tcp:152413:2"/>of Faith</hi> lately Printed, and by what I daily do in the preſence of ſufficient Witneſſes, in the Celebration of the Chriſtian Sacrifice and Adminiſtration of the Holy Sacrament with common Bread, in both kinds, in a vulgar Language, in a Form of Engliſh Compoſure in the Reign of <hi>Edward</hi> VI. and recommended to the Church of <hi>Scotland</hi> by Engliſh Biſhops, in the Reign of King <hi>Charles</hi> I. and which I Printed and Pre<g ref="char:EOLhyphen"/>ſented to the Arch-biſhop and other Biſhops, and have for<g ref="char:EOLhyphen"/>merly uſed in a publick Church in the Heart of the City, for between two and three Years together; and the <hi>Unreaſo<g ref="char:EOLhyphen"/>nableneſs</hi> of the laſt, (of it ſelf a ſilly Surmiſe, and utterly impro<g ref="char:EOLhyphen"/>bable,) eaſily perceivable by Men of Learning in the Diffe<g ref="char:EOLhyphen"/>rences obſervable in my Writings from thoſe of the Roma<g ref="char:EOLhyphen"/>niſts, both in ſeveral Opinions, and in the manner of treat<g ref="char:EOLhyphen"/>ing thoſe wherein we come neareſt to Agreement: Yet ſince you have been pleaſed not only to do me Right very generouſly in my abſence upon all Occaſions, but often preſ<g ref="char:EOLhyphen"/>ſed me to do Right to my ſelf and my own Cauſe, if not for my own Sake, at leaſt for the Service of his Majeſty and my Country; for which ſuch Reports, though Falſe, might ſomewhat diſable me: This laſt Conſideration, together with the reſpect I ought to have for ſo Generous a Friend, have prevailed with me to give you a brief and plain Account in Writing of the <hi>Occaſions</hi> of all this Noiſe and Clamour, and indi<g ref="char:EOLhyphen"/>rect and ſhameful Practices of the Authors of it againſt me.</p>
+            <p>I have long ſince, upon good Conſideration of all I could meet with pertinent to the Queſtion, been well ſatisfyed of <hi>the Truth of the Chriſtian Religion;</hi> and by reading the Writ<g ref="char:EOLhyphen"/>ings of the Ancient Chriſtians from my Youth, together with the Holy Scriptures, well ſatisfied what is the <hi>True, Genuine, Primitive, Catholick Chriſtianity.</hi> By this means I have been long ſenſible of great <hi>Corruptions and Abuſes,</hi> not only in what is truly and properly <hi>Popery,</hi> but alſo in what is vulgarly cry'd up for <hi>Reformation:</hi> And theſe no leſs pernicious and diſtructive to the Rights and Intereſt of the Church and Kingdom of Chriſt upon Earth, and to the Power and Efficacy of true Religion, than the other, but much more ſubtile and plauſible, and ſavouring of the Craft of the Serpent, and truly Antichriſ<g ref="char:EOLhyphen"/>tian. And as much as this I have ſaid before now in Print, without any ſuch Noiſe and Clamour againſt it.</p>
+            <pb n="3" facs="tcp:152413:2"/>
+            <p>Indeed I have long complained of theſe things; and for this ſeven Years laſt paſt, ſince I was more ſpecially engaged in the more immediate Service of God, I have been indea<g ref="char:EOLhyphen"/>vouring for the Reformation but of ſome of them, which I thought both moſt neceſſary, and moſt eaſy to be effected, by private Applications for ſome time; till being grieved at the hardneſs of their Hearts, and inſuperable Reſtineſs and Uncon<g ref="char:EOLhyphen"/>cernedneſs for ſuch things, which I obſerved in ſuch as ought to have been the firſt and principal Movers in ſuch Occaſions, it provoked me to a <hi>Review</hi> of the Roots and Original of this Religion,
+<note place="margin">Mr. <hi>Baxter</hi> calls it the <hi>Nominal miſ<g ref="char:EOLhyphen"/>taken Reformation.</hi>
+               </note> called the <hi>Re<g ref="char:EOLhyphen"/>formation,</hi> which brings forth no better Fruits. And therein I obſerved yet more Abuſes, than I had obſerved, or ſufficiently conſidered before. This Work I had ſcarce finiſhed, when we had the welcome News of the preſent Peace concluded; which had been more welcome to me, had it not been damped by my Senſe and Apprehenſion of the Miſchiefs of theſe unhappy Differences in Religion, which had been the Occaſion of ſuch Wars and Confuſions already, and were as like to be ſo ſtill, if ſome good Care was not taken in time to compoſe them. And upon this I renewed my former Ap<g ref="char:EOLhyphen"/>plications, by Letter to ſuch as I thought moſt proper for me to apply to; and deſired that the CONVOCATION might be per<g ref="char:EOLhyphen"/>mitted to ſit and conſider of theſe things, otherwiſe, if we might not have the opportunity to propoſe matters of ſuch importance to the Church Collective in <hi>a Synod,</hi> there would be a neceſſity of doing it to the Church Diffuſive from the Preſs: But could get no other anſwer, but that the King would not permit it. Which I take to be no leſs injurious to his Majeſty, than it is to all the Clergy, and whole Church and Nation.</p>
+            <p>For it is certain that the King (and in him the Church and Nation, and his Government too) hath been much abuſed by ill Advice or Miſinformation both of his Right and Duty, and con<g ref="char:EOLhyphen"/>cerning the Major part of the Clergy and Convocation by ſome Factious Perſons, if it be true that he will not permit the Convo<g ref="char:EOLhyphen"/>cation to ſit and Act; or by that Pretence, if it be not ſo indeed. This may eaſily be demonſtrated beyond all contradiction: And the Truth of it is like to break out erelong beyond all oppoſition, to the ſhame and confuſion of thoſe, who with their Latitudina<g ref="char:EOLhyphen"/>rian
+<pb n="4" facs="tcp:152413:3"/>Prudentials have made no ſcruple to betray the Rights of Chriſt's Church, and of their own Order, and the mutual Con<g ref="char:EOLhyphen"/>fidence between the King and People, which is the Principal means of a happy Government, by ſuch Flattery, as no Party of Chriſti<g ref="char:EOLhyphen"/>ans in this Nation, or rarely any where elſe, are guilty of beſides themſelves, and their deſpicable Party. But as there is no <hi>Evil,</hi> but is capable of <hi>improvement to Good</hi> by ſuch as know how to make their Advantage of it, ſo theſe Evil Practices have given a juſt occaſion to a Wiſe and Magnanimous Prince to demonſtrate the Sincerity and Juſtice of his Intention and Reſolution to Govern according to the Noble Principles of the true Engliſh Government, by <hi>Reſtoring to the Church thoſe Rights,</hi> which as to any real advan<g ref="char:EOLhyphen"/>tage to the State, are lighter than a Feather in his Cap, but heavier than Lead in their miſchievous Conſequences, while they are uſur<g ref="char:EOLhyphen"/>ped and detained, both to King and People: but would be of in<g ref="char:EOLhyphen"/>credible advantage to him, if he after all would reſolve to be the Prince who ſhould generouſly reſtore them.</p>
+            <p>After I had waited for the Sitting of the Convocation till the next Seſſions of Parliament, and ſaw it again paſt hopes, I began to think of Printing; and made choice of a Subject moſt proper for my purpoſe in many reſpects; but eſpecially for their Judgment to whom I thought fit next to apply my ſelf in this caſe, that is, the Lord Chancellor, Judges, and Gentlemen of the Honourable Profeſſion of the Law: And in the Preface to them, I have ſuffi<g ref="char:EOLhyphen"/>ciently declared what is my only <hi>Deſign</hi> in that, and the other things, which I have ſince publiſhed. Which is no other than the removing of ſuch miſchievous Differences and ſeeds of Wars and Confuſions, out of the way of ſuch Perſons, as are apt to make their Advantage of ſuch Occaſions; or at leaſt that the Cauſe of my Country, that is, of this Church and Nation, in all ſuch Differences, as cannot be compoſed, may be ſo rectified and ſet right, as not only to be made Defenſable, ſo that an honeſt impartial Man need not ſcruple to appear in it; but ſo plain and irreſiſtable, that no conſiderate Adverſary ſhould dare to oppoſe it. And ſuch I think I have found by experience it may be. But to give Life to this, I thought fit not only to ſhew ſome reaſons to beleive that ſuch an attempt is not unreaſo<g ref="char:EOLhyphen"/>nable or impracticable, but that the Faults on this ſide are ſuch as make it abſolutely neceſſary; that I might, if poſſible, a little awaken ſuch as I have hitherto found ſo reſty and
+<pb n="5" facs="tcp:152413:3"/>unconcerned in matters of ſo great importance. This is the Sum of that honeſt Deſign, which in all theſe things I have been labouring to promote as I could, conſidering what Perſons I had to deal with.</p>
+            <p>And I expected either a fair Anſwer by ſome learned Per<g ref="char:EOLhyphen"/>ſon for the ſatisfaction of my ſelf and others, or at leaſt to have been called to anſwer for what I had Written, before ſome competent Authority, where I might have been heard, and have anſwered for my ſelf to what ſhould be objected againſt me. But there were other Counſels reſolved on, and at laſt inſtead of what I expected I found <hi>a Report induſtriouſly</hi> Spread in Book-ſellers Shops, and afterwards very common both in City and Country, that the Author was Mad, and the Book did not deſerve an Anſwer. It was not altogether without a Precedent, for ſome Gentlemen in the Houſe of Commons had made uſe of ſuch a ſhift to eſcape a Petition in the late Queens time againſt them there, for Diſcouraging the Ex<g ref="char:EOLhyphen"/>ecution of the Laws, and Contempt of her Majeſties Autho<g ref="char:EOLhyphen"/>rity; which was ſo well atteſted as could not otherwiſe be anſwered, but by well timeing that Project. And Mr. <hi>Johnſon</hi> before that had himſelf been ſo treated by one concerned in this, and gives inſtances of others ſo ſerved; ſo that it might well paſs with Men of Latitudinarian Principles for a tried Ex<g ref="char:EOLhyphen"/>periment in a deſperate Caſe, where no better Expedient could be found; only the difference between a Petition known to few, and a Book Printed and Publiſhed, and a ſufficient Evidence of it ſelf of the truth of the Caſe, to all who pleaſe to peruſe it, was not perhaps very well conſidered; for that will diſcover to whom that imputation does moſt juſtly belong. But they who think fit to conſider the moſt exact Procedents of this whole matter, may pleaſe to have recourſe to the Sacred Records both Old and New, and there they may find enough to ſatisfy them what Judgment to make in this Caſe, and what Spirit it is that acts under the Sheeps clothing of Moderation.</p>
+            <p>But this did neither diſcourage nor divert me from proceeding in my honeſt Deſign and Endeavours for the Service of God and my Country, and for that purpoſe I thought fit, according to the Practice of the Ancient Chriſtians in ſuch caſes, to draw up <hi>a Pro<g ref="char:EOLhyphen"/>feſſion of my Faith</hi> with particular reſpect to the Roman Terms
+<pb n="6" facs="tcp:152413:4"/>of Communion, with all the Candor and Impartiality, that I poſſibly could, but Printed off but very few, to be ſent to ſome learned Men on both ſides here at <hi>London,</hi> and ſome principal Men in both the Vniverſities. From the Catholicks I received only one little Paper, to which I ſoon returned an anſwer, and heard no more from any of them. And here I muſt in Juſtice do them right, and I aſſure you, I never converſed with any Perſons more Cautious of giving any Offence to the Govern<g ref="char:EOLhyphen"/>ment in my Life, nor have I Written, in all that I have Written any one Sentence or Word at the ſuggeſtion of any one of them: So falſe and injurious to them as well as to my ſelf, is that laſt of the Reports before mentioned. From one of our preſent Biſhops I received a very angry Letter, wherein he charged me with Par<g ref="char:EOLhyphen"/>tiality to the Church of <hi>Rome,</hi> but it ſeems had immediatly that remorſe of Conſcience upon it, that before Night I had another from him to this effect, that he had truſted too much to his Me<g ref="char:EOLhyphen"/>mory, but upon farther peruſal of what I had Written, he found I had dealt ſeverely enough with the Church of <hi>Rome.</hi> And from one other conſiderable Clergyman of the Church of <hi>England,</hi> I received more Friendly Animadverſions upon moſt of the Articles, though not without ſome warmth and a little Partiality, but no more than might be expected; and when I had waited for more as long as I thought neceſſary, I altered what I thought fit, and let it be printed off, and put into the Hands of one or two Book<g ref="char:EOLhyphen"/>ſellers. I fitted it as well as I could for my purpoſe, that is, as one ought to do who ſincerely deſires and endeavours an Agree<g ref="char:EOLhyphen"/>ment. The Catholicks I treated with that Reſpect as was proper to invite them, and yet with that plain Dealing as was neceſſary to make them ſenſible of ſome things unreaſonable on their ſide: And the Proteſtants with that plain Declaration of ſuch Faults on their ſide, as might convince them of a neceſſity of an Agreement, or at leaſt of ſuch an Amendment of their Cauſe as ſhould leave all the Fault on the other ſide, if that could not be accompliſhed; and for my ſelf did what I think all ſincere Chriſtians ought to do, de<g ref="char:EOLhyphen"/>ſired Communion upon ſuch Terms as I could ſubmit to. And by this means I have obtained this Advantage; firſt the Satisfaction of my own Conſcience, that I am clear from all that Guilt which others lie under; and next that the Catholicks themſelves cannot juſtly charge me with either Sacrilege, Schiſm, or Hereſy, and yet am I no ſuch Papiſt by any actual Reconciliation, or ſo much as in Opinion, as theſe unworthy Latitudinarians, no leſs contrary
+<pb n="7" facs="tcp:152413:4"/>to their own Conſcience than to the Truth, have malitiouſly re<g ref="char:EOLhyphen"/>ported me. But ſuch was the anſwer I received to this alſo, as if a Judgment of Infatuation from almighty God had already ſeized upon them, that they ſhould make uſe of ſuch means, as by thoſe very things, which they endeavoured to oppoſe, might without more a doe, be detected of Falſity and Folly, and that be manifeſt to all Men. And I muſt Confeſs, when upon theſe flalſe Reports and Calumnies, I thought fit to trouble my ſelf no farther than only to go where I was ſure to meet with ſome of the Principal to ſee what they would ſay to my ſelf, their Car<g ref="char:EOLhyphen"/>riage was ſo Unchriſtian and even Unmanly as ſeem'd to me, as if God had left them to expoſe their own weakneſs and worthleſ<g ref="char:EOLhyphen"/>neſs before my Face and all there preſent.</p>
+            <p>Upon this I printed my <hi>Letter to a Biſhop,</hi> and ſoon after to give an inſtance and proof in one particuler of thoſe things, which I there alleaged only in more general terms, <hi>the Great Queſtion</hi> con<g ref="char:EOLhyphen"/>cerning the Authority of the Engliſh Clergy, to make them ſenſi<g ref="char:EOLhyphen"/>ble, if poſſible, of the Neceſſity of a Convocation and better con<g ref="char:EOLhyphen"/>ſideration of theſe Matters, of which I had never publiſhed any thing, if we might have had a Convocation. This I believe next to their Temporalties, was likely to touch them neareſt to the quick: And ſo it ſeems it did, but yet could not awaken them to a due Senſe of their Duty and true Intereſt, ſo as to apply themſelves to more proper and direct means to perform the one, and ſecure the other: But rather like Men beſides themſelvos, they not only with Preachments and frightful Outcries againſt the Growth of Po<g ref="char:EOLhyphen"/>pery Alarm'd the Mobb, but with Appeals to all Proteſtant Prin<g ref="char:EOLhyphen"/>ces, and Letters to Members of Parliament preſented Occaſions to ſome, who were ready to catch at them, and knew how to uſe them to ſuch purpoſes, as ſufficient Experience ſhews neceſſary to the well looked to in time. It ſometimes makes me think of the Fool at <hi>Daventry,</hi> who if one gave him a box on the Ear, would preſently give another to the next before him: But I ſcaped not ſo; for in that part of the City, where I not long ſince lived were ſuch Clamour and Perjudice raiſed againſt me, that moſt of my Friends were afraid to ſay what they could for me; for there was part of the Knave, as well as of the Fool in it. But the myſtery is better known than is neceſſary here to have more ſaid of it, only it is not amiſs to remember what unſuſpected Conſequences theſe Nations have not long ſince ſeen proceeding from the like occaſions.</p>
+            <pb n="8" facs="tcp:152413:5"/>
+            <p>Their laſt Effort againſt me, was a grievous Complaint to the Privy Council behind my back, tho' I had offered ſome of them to appear either there or any where elſe to anſwer whatever they could alledge againſt me. And this when it was enquired into, was found to have juſt as much Truth and Weight in it as all the reſt, and ſerves only ſtill more to expoſe their own Wiſe Politicks and the Weakneſs of their Cauſe. And here I cannot but take no<g ref="char:EOLhyphen"/>tice of a very remarkable agreement between theſe Practices of theſe <hi>Latitudinarians</hi> now, and the Sect of the <hi>Libertins</hi> heretofore, who when they were not otherwiſe able to reſiſt the Truth, which was ſpoken to them, firſt raiſed Calumnies againſt the Speaker, then ſtirred up the People; and then accuſed him before the Coun<g ref="char:EOLhyphen"/>cil: But at laſt they gave him a Hearing before they paſſed their Sentence againſt him, which is more than theſe have yet done.</p>
+            <p>And now by the Truth of theſe ſhameful Reports raiſed and ſpread againſt me, may any Man of Senſe judge, what Credit is to be given to all the reſt: By the one how weak and in<g ref="char:EOLhyphen"/>defenſable a Cauſe they have; and by the other, that there is ſome Myſtery fit to be ſearched into, carried on under that falſe and groundleſs Cover, which 'tis to be hop'd will appear in due time. But how far ſuch things are to be countenan<g ref="char:EOLhyphen"/>ced or tolerated in a ſetled Government, is to be left to them to whom it doth belong, to conſider. And therefore I ſhall here conclude when I have told you that in all this, and all I have Printed upon this occaſion, I know not one Sen<g ref="char:EOLhyphen"/>tence or Word, which I do not believe to be honeſtly and ſimply true. And ſuch I hope you ſhall always find me, and</p>
+            <closer>
+               <dateline>
+                  <date>1. <hi>April,</hi> 1700. Eaſter Munday.</date>
+               </dateline>
+               <signed>Your faithful Friend and humble Servant. <hi>E. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
